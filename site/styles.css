@@ -161,7 +161,9 @@ h1
 		width: 91.66%;
 	}
 	.col-md-12{
-		width: 100%;
+		width: 96.97%;
+		margin-right: 1.66%;
+		margin-left: 1.66%;
 	}
 }
 
@@ -213,8 +215,8 @@ h1
 		width: 91.66%;
 	}
 	.col-sm-12{
-		width: 96.97%;
-		margin-right:1.66%;
-		margin left:1.66%;
+		width: 90%;
+		margin-right:5%;
+		margin-left:5%;
 	}
 }
